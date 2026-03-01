@@ -1,0 +1,12 @@
+baseURL: "https://example.com"
+languageCode: "en-us"
+title: "My Hugo Site"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Posts"
+      url: "/posts/"
+      weight: 2
